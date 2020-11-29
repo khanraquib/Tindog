@@ -121,4 +121,14 @@ h3 {
   #title {
     text-align: center;
   }
+  .navbar-brand{
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  .nav-link {
+    font-size: 2.2rem;
+  }
+  .navbar-toggler{
+    font-size: 2.25rem;
+  }
 }
